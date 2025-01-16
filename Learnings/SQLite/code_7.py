@@ -1,0 +1,1 @@
+# DROP TABLE table_name can delete the whole table from the database
